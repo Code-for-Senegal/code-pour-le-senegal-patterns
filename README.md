@@ -20,7 +20,7 @@ Dans la plupart des publications de patterns, ces sections réussissent dans l'o
 
 Nous vous suggérons donc de commencer par la solution car c'est probablement ce que vous connaissez le mieux.
 
-![Sections essentielles des patterns et leur ordre d'écriture](./assets/images/HowToWriteAPattern1.png)
+![Sections essentielles des patterns et leur ordre d'écriture](https://raw.githubusercontent.com/senegalouvert/code-pour-le-senegal-patterns/gh-pages/assets/images/HowToWriteAPattern1.png)
 
 L'écriture d'un pattern est un processus itératif. Une fois que vous avez un brouillon de chaque section, vous devrez probablement les revoir plusieurs fois.
 
