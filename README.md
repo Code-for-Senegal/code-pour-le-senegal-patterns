@@ -1,5 +1,3 @@
-# Code pour le Sénégal patterns
-
 Ce document est un guide d'aide à la rédaction d'un pattern pour l'initiative **Code Pour Ton Pays** lancer par [Elias W. BA](https://github.com/eliaswalyba)
 
 ## C'est quoi un pattern ?
