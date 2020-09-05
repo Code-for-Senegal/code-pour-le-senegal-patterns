@@ -1,0 +1,1 @@
+# code-pour-le-senegal-patterns
