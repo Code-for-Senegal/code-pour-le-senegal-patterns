@@ -10,11 +10,11 @@ Les patterns décrivent un problème puis proposent une solution. Le langage de 
 
 Outre son nom, un pattern contient au moins les cinq sections suivantes:
 
-* La section **Contexte** définit le stade où le pattern se déroule.
-* La section **Problème** explique quel est le problème réel.
-* La section **Forces** décrit pourquoi le problème est difficile à résoudre.
-* La section **Solution** explique la solution en détail.
-* La section **Conséquences** montre ce qui se passe lorsque vous appliquez la solution.
+- La section **Contexte** définit le stade où le pattern se déroule.
+- La section **Problème** explique quel est le problème réel.
+- La section **Forces** décrit pourquoi le problème est difficile à résoudre.
+- La section **Solution** explique la solution en détail.
+- La section **Conséquences** montre ce qui se passe lorsque vous appliquez la solution.
 
 Dans la plupart des publications de patterns, ces sections réussissent dans l'ordre qui vient d'être donné. Malheureusement, il est très difficile d'écrire un pattern de manière linéaire exactement dans cet ordre!
 
@@ -27,10 +27,10 @@ L'écriture d'un pattern est un processus itératif. Une fois que vous avez un b
 ## Explorez ce que vous voulez décrire
 Avant toute chose, posez-vous ces questions:
 
-* Qu'est-ce qui en fait quelque chose de spécial?
-* Qu’est-ce que cela contiendra-t-il et qu’est-ce que cela ne contiendra-t-il pas?
-* Comment peut-il être distingué d'idées, de choses ou de processus similaires?
-* Quels exemples connaissez-vous?
+- Qu'est-ce qui en fait quelque chose de spécial?
+- Qu’est-ce que cela contiendra-t-il et qu’est-ce que cela ne contiendra-t-il pas?
+- Comment peut-il être distingué d'idées, de choses ou de processus similaires?
+- Quels exemples connaissez-vous?
 
         Essayez de ne pas écrire de phrases ou de paragraphes complets, écrivez simplement des notes qui vous aideront lors des prochaines étapes.
 
@@ -94,9 +94,9 @@ Vous avez maintenant configuré toutes les sections requises pour un pattern com
 Décrire et étendre la solution et ses conséquences est rarement difficile car vous connaissez bien la solution. Distinguer souvent le contexte, le problème et les forces
 est plus difficile.
 Si vous ne savez pas à quelle section appartient une instruction spécifique, la règle empirique suivante peut vous aider:
-* Gardez l'énoncé du problème court et net.
-* Tout ce que vous devez expliquer comme arrière-plan fait partie du contexte.
-* Tout ce qui décrit pourquoi le problème est difficile devient une partie des Forces.
+- Gardez l'énoncé du problème court et net.
+- Tout ce que vous devez expliquer comme arrière-plan fait partie du contexte.
+- Tout ce qui décrit pourquoi le problème est difficile devient une partie des Forces.
 
 ## Ordre des sections
 
@@ -121,13 +121,13 @@ Lisez s'il vous plait [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails s
 
 ### Auteurs
 
-* **[Mamadou Diagne](https://github.com/dofbi)**
+- **[Mamadou Diagne](https://github.com/dofbi)**
 
 ### Licence
 
 Ce projet est sous licence Creative Commons Legal Code CC0 1.0 Universal - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ### source
-* [How to write a pattern?: a rough guide for first-time pattern authors
+- [How to write a pattern?: a rough guide for first-time pattern authors
 ](https://www.researchgate.net/publication/266653111_How_to_write_a_pattern_a_rough_guide_for_first-time_pattern_authors)
-* [Pattern language](https://en.wikipedia.org/wiki/Pattern_language)
+- [Pattern language](https://en.wikipedia.org/wiki/Pattern_language)
